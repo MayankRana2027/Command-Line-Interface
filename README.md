@@ -1,11 +1,18 @@
 main.py - Application entry point
+
 Simple launcher that initializes the GUI
+
 Run this file to start the application
 
+
 environment.py - Environment management
+
 Handles environment variables
+
 Manages command history
+
 Stores command aliases
+
 
 commands.py - Command implementations
 Contains all command logic (help, echo, cd, ls, etc.)
